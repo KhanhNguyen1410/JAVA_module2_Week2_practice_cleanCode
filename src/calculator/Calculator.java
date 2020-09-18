@@ -1,3 +1,5 @@
+package calculator;
+
 public class Calculator {
     public static final char ADDITION = '+';
     public static final char SUBTRACTION = '-';
